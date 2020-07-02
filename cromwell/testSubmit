@@ -1,0 +1,2 @@
+ml cromwell
+java -Dconfig.file=./application.conf -jar /opt/nesi/CS400_centos7_bdw/cromwell/51-Java-1.8.0_144/cromwell.jar run -i testSubmit.yaml ../definitions/tools/fastq_to_bam.cwl

@@ -1,0 +1,11 @@
+read1_fastq: 
+    class: File
+    path: /nesi/project/uoa00571/data/raw/dna/batch04/P1001A_1.fastq.gz
+read2_fastq: 
+    class: File
+    path: /nesi/project/uoa00571/data/raw/dna/batch04/P1001A_2.fastq.gz
+sample_name: P100A
+library_name: P1001
+platform_unit: illumina
+platform: illumina
+tmpDir: "/scale_wlg_nobackup/filesets/nobackup/uoa00571/data/intermediate/tmp"

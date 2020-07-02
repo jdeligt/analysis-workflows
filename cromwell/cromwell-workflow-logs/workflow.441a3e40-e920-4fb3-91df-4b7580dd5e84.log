@@ -1,0 +1,2 @@
+2020-07-02 02:48:11,979 INFO  - MaterializeWorkflowDescriptorActor [UUID(441a3e40)]: Parsing workflow as CWL v1.0
+2020-07-02 02:48:36,733 INFO  - MaterializeWorkflowDescriptorActor [UUID(441a3e40)]: Call-to-Backend assignments: cwl_temp_file_441a3e40-e920-4fb3-91df-4b7580dd5e84.cwl -> slurm
